@@ -16,3 +16,16 @@
 ![Grafico](https://d30-invdn-com.akamaized.net/content/pica1e78183259f10fd529f3c0fd3779773.png)
 
 - Qual foi o jogo, console, ou momento da vida que você teve certeza de que queria trabalhar com jogos? Alguma vez se arrependeu ou teve incertezas?
+
+# **Integrantes:**
+- Alphonse Simeus
+- Andrew Gabriel
+- Carlos Junior Pereira da Silva 
+- Daniel Demetrio Lara
+- Emerson Keil
+- Gabriel Salvi
+- Gabriely Jochims
+- Paulo Putzel
+- Vinycius Taglian Rodrigues 
+
+
