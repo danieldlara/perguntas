@@ -1,10 +1,4 @@
 # **Perguntas sobre jogos**
-- Quais são as maiores dificuldades no desenvolvimento de jogos?
-
-- Por quê de ter poucos jogos de caráter nacional no mercado de games?
-
-- O que você acha que está faltando para que esse cenário amadureça e evolua ainda mais no brasil?
-
 - Há, desde sempre, jogos que nos obrigam a nos adaptar e aprender para vencer (Megamen, Mario, Dark Souls, etc). Mas e quanto ao oposto? Jogos que usem IA para se adaptar ao jogador e modificar a experiência de cada um? O que temos agora e o que o futuro reserva? 
 
 | Megamen | Mario |  
@@ -16,6 +10,10 @@
 ![Grafico](https://d30-invdn-com.akamaized.net/content/pica1e78183259f10fd529f3c0fd3779773.png)
 
 - Qual foi o jogo, console, ou momento da vida que você teve certeza de que queria trabalhar com jogos? Alguma vez se arrependeu ou teve incertezas?
+
+- Seria possivel iniciar um mercado de desenvolvimento de jogos na nossa região?
+
+- Como o desenvolvimento de jogos pode colaborar em outras áreas além do entretenimento?
 
 # **Integrantes:**
 - Alphonse Simeus
